@@ -67,3 +67,8 @@
 	path = stock_lot_validation
 	url = git@github.com:GrupoRequiez/stock_lot_validation.git
 	branch = 12.0
+
+[submodule "product_supply"]
+	path = product_supply
+	url = git@github.com:GrupoRequiez/product_supply.git
+	branch = 12.0
