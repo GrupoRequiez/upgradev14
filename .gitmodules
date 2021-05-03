@@ -2,3 +2,8 @@
 	path = GustavoRequiez/product_classification
 	url = git@github.com:GustavoRequiez/product_classification.git
 	branch = 12.0
+
+[submodule "delivery_slip_rqz"]
+	path = delivery_slip_rqz
+	url = git@github.com:GustavoRequiez/delivery_slip_rqz.git
+	branch = 12.0
